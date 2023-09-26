@@ -24,7 +24,7 @@
 <h2>🤝 Connect with me:</h2>
 <p align="center">
 <a href="tel:+91 9027359376" target="_blank">📱 +91-9027359376</a> | 
-<a href="https://drive.google.com/file/d/1HMSqt3K4TPTS7f2MGOEF1zT5xpntkMDe/view?usp=drive_link" target="_blank">🧾 My Resume</a>
+<a href="https://drive.google.com/file/d/1dq1KUzIGwnOPVsR4xy_7uGuNczBavDg0/view?usp=sharing" target="_blank">🧾 My Resume</a>
 </p>
 
 <!-- My Social Links -->
