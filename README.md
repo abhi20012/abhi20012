@@ -14,10 +14,8 @@
 <!-- About Me -->
 ## 👨‍💻 Know Me:
 
-* 🏫 &nbsp;I'm a B.Tech CSE'23 student at [Hemwati Nandan Bahuguna Garhwal University](https://www.hnbgu.ac.in/home).
-* 👀 &nbsp;I’m currently partcipating in as much Coding contests as I can...
-* 👨‍💻 &nbsp;I’m currently learning Backend Development  to become a Full Stack Web Developer.
-* 🌱 &nbsp;Practicing Data Structures and Algorithm.
+* 🏫 &nbsp;Completed my B.Tech CSE'23 student at [Hemwati Nandan Bahuguna Garhwal University](https://www.hnbgu.ac.in/home).
+* 🌱 &nbsp;Good at Data Structures and Algorithm.
 * <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25">I love to **make friends**. So if you want to say hi, I'll be happy to meet you more!😊
 
 <!-- My contacts -->
